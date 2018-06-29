@@ -6,5 +6,5 @@ Edit range and run script. And script create two files: card.vcf - to import on 
 
 ### addContact.py
 You must have already installed [telegram-cli](https://github.com/vysheng/tg) (`sudo snap install telegram-cli`) and loggeg in.
-And too just run script.
+Run script, select method (if 2 & 3 - input range) and wait.
 ![Example](https://i.imgur.com/8I1vc0E.png)
